@@ -1,0 +1,16 @@
+[General]
+WorkBench-Type=GSceneBench
+objectName=Welcome Map
+isVisible=true
+Dynamic-Docks=@Invalid()
+TopItem=@Invalid()
+zoom=0.5
+center=@Variant(\0\0\0\x1a@\b\0\0\0\0\0\0@\b\0\0\0\0\0\0)
+
+[BenchDevices]
+NumberBenchDevices=0
+m_BenchDevices=@Invalid()
+
+[Geometry]
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x1\0\0\0\0\x1%\0\0\0^\0\0\x6?\0\0\x3Y\0\0\x1-\0\0\0|\0\0\x6\x37\0\0\x3Q\0\0\0\0\0\0)
+windowState=@ByteArray(\0\0\0\xff\0\0\0\0\xfd\0\0\0\x1\0\0\0\x1\0\0\0\0\0\0\0\0\xfc\x2\0\0\0\x1\xfb\0\0\0\x16\0m\0_\0p\0\x44\0o\0\x63\0k\0U\0n\0\x64\0o\0\0\0\0\0\xff\xff\xff\xff\0\0\0_\0\xff\xff\xff\0\0\x5\v\0\0\x2\x90\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x1\0\0\0\x2\0\0\0\x1\0\0\0\n\0T\0\x65\0s\0t\0s\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0)

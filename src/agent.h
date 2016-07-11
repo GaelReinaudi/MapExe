@@ -1,0 +1,5 @@
+#include "Agent/GAgent.h"
+#include "Agent/GAgentWrapitem.h"
+#include "Agent/GAgentPlugin.h"
+#include "Agent/GContentAgent.h"
+#include "Agent/GContentGraphicsItem.h"
